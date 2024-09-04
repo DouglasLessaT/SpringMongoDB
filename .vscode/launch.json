@@ -1,0 +1,14 @@
+{
+ "configurations": [
+  {
+   "type": "java",
+   "name": "Spring Boot-MongoprojectApplication<mongoproject>",
+   "request": "launch",
+   "cwd": "${workspaceFolder}",
+   "mainClass": "art.atualiz.mongoproject.MongoprojectApplication",
+   "projectName": "mongoproject",
+   "args": "",
+   "envFile": "${workspaceFolder}/.env"
+  }
+ ]
+}
